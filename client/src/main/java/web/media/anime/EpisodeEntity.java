@@ -1,4 +1,4 @@
-package org.example.media.anime;
+package web.media.anime;
 
 import java.util.UUID;
 

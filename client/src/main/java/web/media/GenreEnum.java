@@ -1,4 +1,4 @@
-package org.example.media.manga;
+package web.media;
 
 public enum GenreEnum {
     ACTION,

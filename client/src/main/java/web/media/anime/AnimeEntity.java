@@ -1,8 +1,8 @@
-package org.example.media.anime;
+package web.media.anime;
 
-import org.example.media.manga.BaseMediaType;
-import org.example.media.manga.PersonEntity;
-import org.example.media.manga.StudioEntity;
+import web.media.BaseMediaType;
+import web.structure.PersonEntity;
+import web.structure.StudioEntity;
 
 import java.util.UUID;
 
